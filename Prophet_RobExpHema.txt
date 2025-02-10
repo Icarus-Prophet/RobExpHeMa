@@ -1,0 +1,6 @@
+Prophet Robust Explorer/Healthy Maverick Fix changelog:
+
+	Stats-D_Stats.json:
+		Appended a new stat to the end of the file to give health bonus from the talents visibility,
+	Talents-D_Talents.json:
+		Added to the talents 'Robust Explorer' and 'Healthy Maverick' appropriate rewards for the visibility
