@@ -1,11 +1,11 @@
 {
   "mods": [
     {
-      "name": "Prophet's Beyond Null",
+      "name": "Prophet's Robust Explorer and Healthy Maverick Fix",
       "author": "Prophet",
       "version": "2.1",
       "compatibility": "w166",
-      "description": "Prophet's Beyond Null, Etheric Xenograft Potentia Expansion Automated System Integration. Gives roughly a 40% increase to most stats, allows display above level 60. Makes Tempered Glass Strong, and aluminum on par with stone brick. Every Alteration has the boost.",
+      "description": "Prophet's Robust Explorer and Healthy Maverick Fix is simply a UI glitch fix",
       "files": {
         "exmodz": "https://https://github.com/Icarus-Prophet/RobExpHeMa/blob/main/Prophet_RobExpHema.EXMODZ"
       },
