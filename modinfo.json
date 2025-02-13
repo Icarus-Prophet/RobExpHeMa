@@ -25,6 +25,19 @@
       "files": {
           "exmodz": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/Prophet_RobExpHema.EXMODZ"
       }
+    },
+    {
+      "name": "Prophet's Freezer Autodefrost",
+      "author": "Prophet",
+      "version": "1.0",
+      "week": "166",
+      "compatibility": "W166",
+      "description": "Should remove Ice from spawning in any Device similar to the freezer, Please be advised that the freezer will not allow Ice in it anymore.",
+      "imageURL": "",
+      "readmeURL": "https://github.com/Icarus-Prophet/RobExpHeMa/blob/main/Prophets_Freezer_AutodefrostReadme.txt",
+      "files": {
+          "exmodz": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/Prophets_Freezer_Autodefrost.EXMODZ"
+      }
     }
    ]
  }
