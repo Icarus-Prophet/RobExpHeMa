@@ -38,6 +38,19 @@
       "files": {
           "exmodz": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/Prophets_Freezer_Autodefrost.EXMODZ"
       }
+    },
+    {
+      "name": "Prophet's Fortifications",
+      "author": "Prophet",
+      "version": "1.0",
+      "week": "167",
+      "compatibility": "W166",
+      "description": "The Talents Work with the fortifications",
+      "imageURL": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/FortImageOnly2.png",
+      "readmeURL": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/Prophets_Fortifications.txt",
+      "files": {
+          "exmodz": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/Prophets_Fortifications.EXMODZ"
+      }
     }
    ]
  }
