@@ -1,0 +1,8 @@
+Prophets Fortifications changelog:
+
+  Crafting-D_CraftingModifications.json:
+    Added to the Query List for wood buildings
+  Items-D_ItemsStatic.json:
+		Added to the Entries for the fortifications, tags to allow them to get affected by talents.
+  Tags-D_TagQueries.json:
+    Added a new Query Entry for Any Wood Fortifications
