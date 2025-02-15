@@ -17,7 +17,7 @@
       "name": "Prophet's Robust Explorer Fix",
       "author": "Prophet",
       "version": "2.75",
-      "week": "166",
+      "week": "",
       "compatibility": "W166",
       "description": "Prophet's Fix for Robust Explorer/Healthy Maverick Traits not showing what they give",
       "imageURL": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/ImageOnly.png",
@@ -42,7 +42,7 @@
     {
       "name": "Prophet's Fortifications",
       "author": "Prophet",
-      "version": "1.0",
+      "version": "1.1",
       "week": "167",
       "compatibility": "W166",
       "description": "The Talents Work with the fortifications",
