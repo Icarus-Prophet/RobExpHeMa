@@ -42,11 +42,11 @@
     {
       "name": "Prophet's Fortifications",
       "author": "Prophet",
-      "version": "1.2",
+      "version": "1.5",
       "week": "167",
       "compatibility": "W167",
       "description": "The Talents Work with the fortifications",
-      "imageURL": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/FortImageOnly2.png",
+      "imageURL": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/WoodFortificationTalentsFixed.png",
       "readmeURL": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/Prophets_Fortifications.txt",
       "files": {
           "exmodz": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/Prophets_Fortifications.EXMODZ"
