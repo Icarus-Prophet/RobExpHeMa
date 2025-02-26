@@ -1,0 +1,7 @@
+Change log 1.0
+	AI-D_AIRelationships.json
+		Adjusted Entries for Default Large Carnivore, Small Carnivore, and Medium Carnivore. Added entry for Parent Herbivore.
+	AI-D_AISetup.json
+		Adjusted Entries for the Chamois, Antelope, Pronghorn, Buffalo, Kea, Komodo, Scorpion, and Moa to better reflect behaviors of creatures
+	AI-D_AISpawnZones.json
+		Adjusted Olympus Medium and Hard Conifer spawns to offset predation. Adjusted Styx Medium and Hard Conifer and desert spawns to offset predation.
