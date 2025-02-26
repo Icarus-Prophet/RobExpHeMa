@@ -51,6 +51,19 @@
       "files": {
           "exmodz": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/Prophets_Fortifications.EXMODZ"
       }
+    },
+    {
+      "name": "Prophet's AI Adjustment",
+      "author": "Prophet",
+      "version": "1.0",
+      "week": "168",
+      "compatibility": "W168",
+      "description": "Remake of the AI Adjustment made by SalJam, major props to the pioneer of the concept Saljam and props to relentlessmoose for the idea to revive it.",
+      "imageURL": "",
+      "readmeURL": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/Prophets_AI_Adjustment.txt",
+      "files": {
+          "exmodz": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/Prophets_AI_Adjustment.EXMODZ"
+      }
     }
    ]
  }
