@@ -1,0 +1,1 @@
+Flips the inventory slots for the tacklebox, and removes the background shadow for the slots
