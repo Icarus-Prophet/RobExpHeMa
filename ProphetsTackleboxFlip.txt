@@ -1,1 +1,1 @@
-Flips the Inventory Slots for the tacklebox so the top 3 allow fish and the bottom 2 allow lures, Removed the background shadow from the tacklebox's inventory slots
+Flips the Inventory Slots for the tacklebox so the top 3 allow fish and the bottom 2 allow lures, I haven't removed the background shadow from the tacklebox's inventory slots
