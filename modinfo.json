@@ -71,7 +71,7 @@
       "version": "1.0",
       "week": "184",
       "compatibility": "W184",
-      "description": "Flips the Inventory Slots for the tacklebox so the top 3 allow fish and the bottom 2 allow lures, Removed the background shadow from the tacklebox's inventory slots",
+      "description": "Flips the Inventory Slots for the tacklebox so the top 3 allow fish and the bottom 2 allow lures, I haven't removed the background shadow from the tacklebox's inventory slots",
       "imageURL": "",
       "readmeURL": "https://github.com/Icarus-Prophet/RobExpHeMa/raw/main/ProphetsTackleboxFlip.txt",
       "files": {
